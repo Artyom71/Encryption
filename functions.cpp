@@ -1,3 +1,4 @@
+//Copyright 2018 by Akopyan Artyom
 #define _CRT_SECURE_NO_WARNINGS
 #include "header.hpp"
 

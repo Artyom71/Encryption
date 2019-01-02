@@ -1,3 +1,4 @@
+//Copyright 2018 by Akopyan Artyom
 #include <iostream>
 #include <vector>
 #include <string>
